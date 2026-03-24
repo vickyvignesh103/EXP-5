@@ -30,22 +30,25 @@ PROCEDURE:
 
 CIRCUIT DIAGRAM: LINE REGULATION:
 
-![WhatsApp Image 2026-03-24 at 2 45 22 PM](https://github.com/user-attachments/assets/722b25fb-685a-423b-afc2-c3d11de27362)
+![WhatsApp Image 2026-03-24 at 2 45 22 PM](https://github.com/user-attachments/assets/df7fab6b-7867-4b46-9743-d15d88f9c914)
+
 
 LOAD REGULATION:
 
-![WhatsApp Image 2026-03-24 at 2 45 22 PM](https://github.com/user-attachments/assets/db55cfb6-2752-473e-8fcd-48de86012b1d)
+![WhatsApp Image 2026-03-24 at 2 45 22 PM](https://github.com/user-attachments/assets/10530a7d-6e9b-41d6-b67a-dc44c066ce32)
+
 
 OBSERVATIONS:
 
  LINE REGULATION CHARACTERISTICS:
 
-![WhatsApp Image 2026-03-24 at 2 45 22 PM](https://github.com/user-attachments/assets/d8981f1d-75a5-4dd7-8293-b0ef39bd277b)
+![WhatsApp Image 2026-03-24 at 2 45 22 PM](https://github.com/user-attachments/assets/4730cc4d-d72f-40d0-88ac-db5720192c96)
+
 
 
 LOAD REGULATION CHARACTERISTICS:
 
-![WhatsApp Image 2026-03-24 at 2 45 22 PM](https://github.com/user-attachments/assets/c1d03f37-6ba0-4969-8335-0daca59914c4)
+![WhatsApp Image 2026-03-24 at 2 45 22 PM](https://github.com/user-attachments/assets/d7e492b0-550b-4856-acf0-cd88c0f361dd)
 
 PRECAUTIONS:
 
